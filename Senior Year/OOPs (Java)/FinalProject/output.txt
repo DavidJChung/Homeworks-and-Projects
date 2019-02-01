@@ -1,0 +1,18 @@
+|[Item]       | [Item Classification] | [Price Type] | [Price]  | [Qty]  | [Ext. Price] | 
+|Carnation    | Flowers               | Dozen        | 5.28     | 8      | 42.24        | 
+|Lily         | Flowers               | Unit         | 3.00     | 6      | 18.00        | 
+|Orchid       | Flowers               | Unit         | 13.99    | 5      | 69.95        | 
+|Rose         | Flowers               | Dozen        | 19.99    | 9      | 179.91       | 
+|Tulip        | Flowers               | Unit         | 1.50     | 12     | 18.00        | 
+|Apple        | Fruit                 | Lbs          | 2.33     | 7      | 16.31        | 
+|Banana       | Fruit                 | Dozen        | 0.79     | 11     | 8.69         | 
+|Mango        | Fruit                 | Unit         | 1.49     | 10     | 14.90        | 
+|Orange       | Fruit                 | Unit         | 0.39     | 4      | 1.56         | 
+|Strawberry   | Fruit                 | Lbs          | 2.50     | 12     | 30.00        | 
+|Cabbage      | Vegetable             | Unit         | 1.48     | 6      | 8.88         | 
+|Carrot       | Vegetable             | Dozen        | 0.98     | 9      | 8.82         | 
+|Eggplant     | Vegetable             | Unit         | 0.74     | 2      | 1.48         | 
+|Lettuce      | Vegetable             | Unit         | 0.82     | 7      | 5.74         | 
+|Radish       | Vegetable             | Dozen        | 1.14     | 4      | 4.56         | 
+-----------------------------------------------------------------------------------------
+																		  Total: 429.04 
